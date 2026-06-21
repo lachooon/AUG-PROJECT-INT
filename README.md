@@ -20,9 +20,9 @@ Projekt kompilatora realizujący analizę leksykalną, analizę składniową ora
 ```
 Parsing has ended successfully
 VARIABLE SUMMARY
-Variable: licznik | Type: INTEGER | Lines used: 3 11 13 34 39
-Variable: limit | Type: INTEGER | Lines used: 4 8 13 18 37
-Variable: powitanie | Type: STRING | Lines used: 1 7 11 13 15 20 27
-Variable: szukana_pozycja | Type: INTEGER | Lines used: 5 20 21
-Variable: wynik | Type: STRING | Lines used: 2 9 15 16 29 37 38
+Variable: a | Type: INTEGER | Lines used: 3 11 13 34 39
+Variable: b | Type: INTEGER | Lines used: 4 8 13 18 37
+Variable: c | Type: STRING | Lines used: 1 7 11 13 15 20 27
+Variable: d | Type: INTEGER | Lines used: 5 20 21
+Variable: e | Type: STRING | Lines used: 2 9 15 16 29 37 38
 ```
