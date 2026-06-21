@@ -1,4 +1,4 @@
-# Kompilator - Analizator Składniowy i Semantyczny (Front-end)
+# Kompilator - Analizator Składniowy i Semantyczny
 
 Projekt kompilatora realizujący analizę leksykalną, analizę składniową oraz weryfikację typów. Projekt został napisany z wykorzystaniem narzędzi **Flex** i **Bison** oraz języka **C++**.
 
