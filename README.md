@@ -17,7 +17,8 @@ Projekt kompilatora realizujący analizę leksykalną, analizę składniową ora
 
 ## Przykładowy wynik działania
 
-```Parsing has ended successfully
+```
+Parsing has ended successfully
 VARIABLE SUMMARY
 Variable: licznik | Type: INTEGER | Lines used: 3 11 13 34 39
 Variable: limit | Type: INTEGER | Lines used: 4 8 13 18 37
